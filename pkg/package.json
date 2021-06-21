@@ -1,0 +1,15 @@
+{
+  "name": "rustcalc",
+  "collaborators": [
+    "ajinkya.deshmukh"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rustcalc_bg.wasm",
+    "rustcalc.js",
+    "rustcalc.d.ts"
+  ],
+  "module": "rustcalc.js",
+  "types": "rustcalc.d.ts",
+  "sideEffects": false
+}
